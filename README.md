@@ -8,3 +8,8 @@ QUIZ ID: Totonto:100
 2. Based on the Scaped Toronto:100 Dataset, it was observed that only users with more than four years of contributions were able to significantly increase their followers. No developers with less than four years of experience showed a similar increase in followers. Developer aneagoie likely engages actively with his followers and the broader community. He has demonstrated a significant lead, with almost double the followers of the second top developer.
   
 3. Developers are Recomended to Respond to issues, participate in discussions, and collaborate with other developers. Active engagement helps build a loyal follower base.
+
+
+Few Other analysis has done on this dataset as such Weekend repo actions, top performenrs and wide used language which has shown on script.py. The methods followed excatly same as shown in the lecture, and tried excising more. The abobe theree bullet points are the major finds on my TDS Poroject 1.
+
+Thank You
