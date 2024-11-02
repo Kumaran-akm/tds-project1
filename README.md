@@ -10,6 +10,6 @@ QUIZ ID: Totonto:100
 3. Developers are Recomended to Respond to issues, participate in discussions, and collaborate with other developers. Active engagement helps build a loyal follower base.
 
 
-Few Other analysis has done on this dataset as such Weekend repo actions, top performenrs and wide used language which has shown on script.py. The methods followed excatly same as shown in the lecture, and tried excising more. The abobe theree bullet points are the major finds on my TDS Poroject 1.
+Few Other analysis has done on this dataset as such Weekend repo actions, top performenrs and wide used language which has shown on script.py. The methods followed excatly same as shown in the lecture, and tried excising more. These theree bullet points are the major finds on my TDS Poroject 1.
 
 Thank You
